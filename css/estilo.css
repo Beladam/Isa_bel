@@ -1,0 +1,22 @@
+body{ background-color: #f059869c;
+    font-family: 'Courier New', Courier, monospace;
+    width: 500px;
+    max-width: 100%;
+    margin-left:auto ;
+    margin-right:auto ;
+}
+}
+div{
+    text-align: center;
+}
+p, h1 {
+    color: #59f0ca;
+    
+}
+
+ul, li, a { color: #59E0F0;
+    img{ width: 150px;
+         border-radius: 50%; 
+         border-width: 6px; }
+
+}
